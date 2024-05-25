@@ -27,3 +27,7 @@ Setup:
 - [Settings](/.vscode/settings.json)
 - [Extensions](/.vscode/extensions.json)
 - [Snippets](/.vscode/snippets)
+
+## Everything Else
+
+- [Design Resources](./design.md)

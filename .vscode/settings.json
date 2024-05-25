@@ -139,5 +139,20 @@
 	"files.autoSave": "afterDelay",
 
 	// Repository dictionary
-	"cSpell.words": ["Monaspace", "Poimandres"]
+	"cSpell.words": [
+		"Flowbase",
+		"heroicons",
+		"InspoVault",
+		"Mobbin",
+		"Monaspace",
+		"Poimandres",
+		"shadcn",
+		"Squoosh",
+		"storytale",
+		"Tilebit",
+		"Typescale",
+		"Upscaler",
+		"Webflow"
+	],
+	"cSpell.language": "en,en-GB,lorem"
 }
